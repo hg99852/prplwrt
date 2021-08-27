@@ -1,0 +1,6 @@
+---
+profiles:
+  - tplink_ac-2600
+target: ipq806x
+subtarget: generic
+description: Build image for TP-Link AC-2600
